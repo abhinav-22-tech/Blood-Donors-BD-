@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Blood-Donors-BD-/static/css/main.ea4f2240.chunk.css",
+    "main.js": "/Blood-Donors-BD-/static/js/main.089cb93b.chunk.js",
+    "main.js.map": "/Blood-Donors-BD-/static/js/main.089cb93b.chunk.js.map",
+    "runtime-main.js": "/Blood-Donors-BD-/static/js/runtime-main.8626822c.js",
+    "runtime-main.js.map": "/Blood-Donors-BD-/static/js/runtime-main.8626822c.js.map",
+    "static/css/2.139ef255.chunk.css": "/Blood-Donors-BD-/static/css/2.139ef255.chunk.css",
+    "static/js/2.6343a488.chunk.js": "/Blood-Donors-BD-/static/js/2.6343a488.chunk.js",
+    "static/js/2.6343a488.chunk.js.map": "/Blood-Donors-BD-/static/js/2.6343a488.chunk.js.map",
+    "index.html": "/Blood-Donors-BD-/index.html",
+    "static/css/2.139ef255.chunk.css.map": "/Blood-Donors-BD-/static/css/2.139ef255.chunk.css.map",
+    "static/css/main.ea4f2240.chunk.css.map": "/Blood-Donors-BD-/static/css/main.ea4f2240.chunk.css.map",
+    "static/js/2.6343a488.chunk.js.LICENSE.txt": "/Blood-Donors-BD-/static/js/2.6343a488.chunk.js.LICENSE.txt",
+    "static/media/logo+tag.f4042dfa.jpg": "/Blood-Donors-BD-/static/media/logo+tag.f4042dfa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8626822c.js",
+    "static/css/2.139ef255.chunk.css",
+    "static/js/2.6343a488.chunk.js",
+    "static/css/main.ea4f2240.chunk.css",
+    "static/js/main.089cb93b.chunk.js"
+  ]
+}
