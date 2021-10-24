@@ -1,15 +1,16 @@
 import React, { Component, useEffect, useState } from "react";
 import "./App.css";
-import firebaseConfig from "./firebaseConfig";
+// import { db } from "./firebaseConfig";
 import * as firebaseui from "firebaseui";
 import firebase from "firebase";
 import "firebaseui/dist/firebaseui.css";
 import logo from "./images/logo+tag.jpg";
 import bloodimg from "./images/Blood-img.png";
+import Contact from "./components/contact/contact";
 
 class App extends Component {
   componentDidMount() {
-    const fbase = firebase.initializeApp(firebaseConfig);
+    // const fbase = firebase.initializeApp(firebaseConfig);
     const uiConfig = {
       // signInSuccessUrl: "", //This URL is used to return to that page when we got success response for phone authentication.
       signInOptions: [firebase.auth.PhoneAuthProvider.PROVIDER_ID],
@@ -79,7 +80,7 @@ class App extends Component {
         )}
         {appState === "edit" && (
           <div>
-            <h1>Hello</h1>
+            <Contact />
             <SignOut />
           </div>
         )}
